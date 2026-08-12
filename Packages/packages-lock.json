@@ -16,12 +16,26 @@
       "dependencies": {},
       "hash": "ceac8d6946b1125fe782cd171fbcb245b567dbf9"
     },
+    "com.gif-hara.hkfeedback": {
+      "version": "https://github.com/gif-hara/HKFeedback.git?path=Assets/HKFeedback",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "92b9a51353c6bbd823a1ce9ac3db5e4bb30f934e"
+    },
     "com.github-glitchenzo.nugetforunity": {
       "version": "https://github.com/GlitchEnzo/NuGetForUnity.git?path=/src/NuGetForUnity",
       "depth": 0,
       "source": "git",
       "dependencies": {},
       "hash": "acc1c7bc9ea34c33b830e40316fca52553878d29"
+    },
+    "com.mackysoft.serializereference-extensions": {
+      "version": "https://github.com/gif-hara/Unity-SerializeReferenceExtensions.git?path=Assets/MackySoft/MackySoft.SerializeReferenceExtensions#feature-generic-class",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "d128745e702fcb14c587fa95a9f44de5119d7a24"
     },
     "com.unity.2d.animation": {
       "version": "16.0.0",
