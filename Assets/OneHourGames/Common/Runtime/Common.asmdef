@@ -1,0 +1,19 @@
+{
+    "name": "Common",
+    "rootNamespace": "OneHourGames.Common",
+    "references": [
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:77221876cc6b8244180b96e320b1bcd4",
+        "GUID:9326be4f41744c94e9841ff1945ca861",
+        "GUID:49b49c76ee64f6b41bf28ef951cb0e50"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
